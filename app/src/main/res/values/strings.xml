@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">fotoapp</string>
+    <string name="ivfoto">captura de imagen</string>
+    <string name="btncapturar">captura</string>
+</resources>
